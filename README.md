@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🎓 Final Year Computer Science and Engineering undergraduate at University of Moratuwa  
 - 👯 I’m looking to collaborate on full-stack and mobile development
-- 👨‍💻 Former intern on Atlink Communications Inc.
+- 👨‍💻 Former intern at Atlink Communications Inc.
 
